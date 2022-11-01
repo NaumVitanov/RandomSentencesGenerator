@@ -1,2 +1,2 @@
 # RandomSentencesGenerator
- A very simple random senteces generator
+ A very simple random sentences generator
